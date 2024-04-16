@@ -1,0 +1,57 @@
+
+*{
+  color: white;
+  margin: 0px;
+  padding: 0px;
+}
+.image{
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+#name{
+  color: rgb(177, 241, 87);
+}
+.ver-line{
+  border-left: 2px solid black;
+  height: 50px;
+  margin: 0 10px;
+}
+.intro{
+  color: whitesmoke;
+}
+.do{
+  font-weight: bolder;
+}
+.pic{
+  height: 250px;
+  width: 250px;
+}
+.car-item{
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+.img-car{
+  height: 75px;
+  width: 75px;
+}
+.btn-final{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.gitback{
+  background-image: url(https://files.tecnoblog.net/wp-content/uploads/2022/06/capa-github.jpg);
+}
+.text-git{
+  color: white;
+  font-weight: bold;
+}
+.icon{
+  color: white;
+}
+.gmail{
+  width: 15px;
+  height: 15px;
+}
