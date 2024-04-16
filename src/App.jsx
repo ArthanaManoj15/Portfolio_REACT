@@ -30,7 +30,7 @@ function App() {
         <Row className="justify-content-center align-items-center">
           <Col xs={12} md={3}></Col>
           <Col xs={12} md={3} className="text-center mb-3 mb-md-0">
-            <img className="image img-fluid" src="static/images/myimage.jpeg" alt="" />
+            <img className="image img-fluid" src="src/images/myimage.jpeg" alt="" />
           </Col>
           <Col xs={12} md={4} className="text-center">
             <div className="d-flex flex-column align-items-center">
