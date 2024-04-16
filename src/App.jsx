@@ -30,7 +30,7 @@ function App() {
         <Row className="justify-content-center align-items-center">
           <Col xs={12} md={3}></Col>
           <Col xs={12} md={3} className="text-center mb-3 mb-md-0">
-            <img className="image img-fluid" src="src/myimage.jpeg" alt="" />
+            <img className="image img-fluid" src="src/images/myimage.jpeg" alt="" />
           </Col>
           <Col xs={12} md={4} className="text-center">
             <div className="d-flex flex-column align-items-center">
@@ -81,13 +81,13 @@ function App() {
               <Carousel.Item>
                 <Row className="justify-content-center">
                   <Col xs={6} sm={3} md={3}>
-                    <img src="src/js.png" alt="js" className="img-car img-fluid" />
+                    <img src="src/images/js.png" alt="js" className="img-car img-fluid" />
                   </Col>
                   <Col xs={6} sm={3} md={3}>
                     <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="vs" className="img-car img-fluid" />
                   </Col>
                   <Col xs={6} sm={3} md={3}>
-                  <img src="src/html.png" alt="html" className="img-car img-fluid" />
+                  <img src="src/images/html.png" alt="html" className="img-car img-fluid" />
                   </Col>
                   <Col xs={6} sm={3} md={3}>
                     <img src="https://jorgecolonconsulting.com/wp-content/uploads/React-Icon-Black.png" alt="react" className="img-car img-fluid" />
@@ -98,13 +98,12 @@ function App() {
               <Carousel.Item>
                 <Row className="justify-content-center">
                   <Col xs={6} sm={3} md={3}>
-                  <img src="src/js.png" alt="js" className="img-car img-fluid" />
+                  <img src="src/images/js.png" alt="js" className="img-car img-fluid" />                  </Col>
+                  <Col xs={6} sm={3} md={3}>
+                    <img src="src/images/MUI.png" alt="mui" className="img-car img-fluid" />
                   </Col>
                   <Col xs={6} sm={3} md={3}>
-                    <img src="src/MUI.png" alt="mui" className="img-car img-fluid" />
-                  </Col>
-                  <Col xs={6} sm={3} md={3}>
-                    <img src="src/html.png" alt="html" className="img-car img-fluid" />
+                    <img src="src/images/html.png" alt="html" className="img-car img-fluid" />
                   </Col>
                   <Col xs={6} sm={3} md={3}>
                     <img src="https://jorgecolonconsulting.com/wp-content/uploads/React-Icon-Black.png" alt="react" className="img-car img-fluid" />
